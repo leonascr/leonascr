@@ -3,7 +3,7 @@
 
 👩‍💼 Áreas de interesse: gestão de projetos, front end e UI/UX Designer <br>
 
-💻 Desde criança, sempre tive contato com computadores, o que despertou em mim uma grande paixão pela área de Tecnologia da Informação. Esse interesse inicial me motivou a seguir a carreira de Engenharia de Software. Meu objetivo é evoluir continuamente e me aprofundar cada vez mais no campo da T.I., buscando sempre alcançar meus objetivos profissionais e pessoais.
+💻 Desde criança, sempre tive contato com computadores, o que despertou em mim uma grande paixão pela área de Tecnologia da Informação. Esse interesse inicial me motivou a seguir a carreira de Engenharia de Software. Meu objetivo é evoluir continuamente e me aprofundar cada vez mais no campo da T.I. Buscando sempre alcançar meus objetivos profissionais e pessoais.
 <br>
 <div> 
   <a href = "https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=leocosta0089@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
