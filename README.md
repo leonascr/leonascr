@@ -1,4 +1,4 @@
-## Opa, Prazer Leo! 👋
+## Bem vindo! 👋
 📒 Sou estudante de Engenharia de Software na faculdade Uniceplac! <br>
 
 👩‍💼 Áreas de interesse: gestão de projetos, front end e UI/UX Designer <br>
