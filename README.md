@@ -1,4 +1,4 @@
-## Bem vindo! 👋
+## Bem vindo, me chamo Leo! 👋
 📒 Sou estudante de Engenharia de Software na faculdade Uniceplac! <br>
 
 👩‍💼 Áreas de interesse: gestão de projetos, front end e UI/UX Designer <br>
